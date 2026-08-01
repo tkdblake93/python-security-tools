@@ -6,7 +6,6 @@ osint_report_blake.hutchinson.txt
 osint_report_tkdblake93.txt
 passwords.txt
 __pycache__/
-scan_results.txt
 subdomains_blakehutch.com.txt
 subdomains_hackthebox.com.txt
 subdomains_tryhackme.com.txt
@@ -21,8 +20,7 @@ web_scan_report_vulnweb.json
 web_scan_report_vulnweb.txt
 
 
-access.log                        
-banner.py                                                
+access.log                                           
 generate.py                        
 log_analyzer.py                    
 make_strong.py                     
@@ -31,8 +29,7 @@ os
 osint_report_blake.hutchinson.txt  
 osint_report_tkdblake93.txt    
 passwords.txt                      
-rockyou.txt                        
-scanner.py
+rockyou.txt
 sniffer.py
 subdomain_finder.py
 subdomains.txt
