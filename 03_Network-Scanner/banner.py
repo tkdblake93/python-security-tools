@@ -14,7 +14,6 @@ def grab_banner(ip, port):
     except Exception:
         return None
 
-# target = "192.168.5.1"
 #target = "127.0.0.1"
 target = "scanme.nmap.org"
 ports_to_check = [21, 22, 25, 80, 110, 143]

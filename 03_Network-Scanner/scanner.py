@@ -6,7 +6,6 @@ import time
 
 #target = "127.0.0.1" # change this to your target
 target = "scanme.nmap.org"
-#target = "192.168.5.1"
 start_port = 1
 end_port = 1024
 output_file = "scan_results.txt"
