@@ -1,0 +1,1 @@
+print("My security lab is ready. Let's build something.")
