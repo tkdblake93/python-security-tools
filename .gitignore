@@ -29,8 +29,7 @@ make_strong.py
 monitor.py                         
 os                                 
 osint_report_blake.hutchinson.txt  
-osint_report_tkdblake93.txt        
-password_checker.py                
+osint_report_tkdblake93.txt    
 passwords.txt                      
 rockyou.txt                        
 scanner.py
