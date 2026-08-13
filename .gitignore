@@ -35,5 +35,4 @@ subdomain_finder.py
 subdomains.txt
 sys
 threat_report.txt
-username_search.py
 web_scanner.py
