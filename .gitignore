@@ -1,27 +1,11 @@
 errors_screenshots/
-osint_report_blake.hutchinson.txt
-osint_report_tkdblake93.txt
 passwords.txt
 __pycache__/
-subdomains_blakehutch.com.txt
-subdomains_hackthebox.com.txt
-subdomains_tryhackme.com.txt
-threat_report_03.txt
-threat_report_05.txt
-threat_report_10.txt
-threat_report_20.txt
 venv/
-web_scan_report_blakehutch.json
-web_scan_report_blakehutch.txt
-web_scan_report_vulnweb.json
-web_scan_report_vulnweb.txt
 
 
 os                                 
-osint_report_blake.hutchinson.txt  
-osint_report_tkdblake93.txt    
 passwords.txt                      
 rockyou.txt
 sys
-threat_report.txt
 
