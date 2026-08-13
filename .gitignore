@@ -19,8 +19,6 @@ web_scan_report_vulnweb.json
 web_scan_report_vulnweb.txt
 
 
-access.log                                           
-log_analyzer.py                    
 os                                 
 osint_report_blake.hutchinson.txt  
 osint_report_tkdblake93.txt    
