@@ -1,5 +1,3 @@
-capture.pcap
-capture.txt
 errors_screenshots/
 osint_report_blake.hutchinson.txt
 osint_report_tkdblake93.txt
@@ -24,7 +22,6 @@ osint_report_blake.hutchinson.txt
 osint_report_tkdblake93.txt    
 passwords.txt                      
 rockyou.txt
-sniffer.py
 sys
 threat_report.txt
 web_scanner.py
