@@ -21,9 +21,7 @@ web_scan_report_vulnweb.txt
 
 
 access.log                                           
-generate.py                        
 log_analyzer.py                    
-make_strong.py                     
 monitor.py                         
 os                                 
 osint_report_blake.hutchinson.txt  
